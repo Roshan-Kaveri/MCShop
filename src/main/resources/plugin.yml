@@ -1,0 +1,4 @@
+name: HmmShop
+version: '${project.version}'
+main: org.hmmbo.hmmshop.HmmShop
+api-version: '1.17'

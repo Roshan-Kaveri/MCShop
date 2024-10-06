@@ -1,0 +1,21 @@
+ShopItems:
+  DIAMOND:
+    display_name: "DIAMONDDD"
+    buy_price: 120
+    sell_price: 33
+    canBuy: true
+    canSell: true
+    lore:
+      - " "
+      - "Buy price => %buy_price%"
+      - "Sell price => %sell_price%"
+  DIAMOND_ORE:
+    display_name: "DIAMONDDD OREE"
+    buy_price: 120
+    sell_price: 33
+    canBuy: true
+    canSell: true
+    lore:
+      - " "
+      - "Buy price => %buy_price%"
+      - "Sell price => %sell_price%"
